@@ -1,0 +1,53 @@
+.alig{
+  padding: 25px;
+}
+.rowAlign{
+  padding: 25px;
+}
+.card{
+  padding: 25px;
+}
+.inputAlig{
+  margin-top: 50px;
+}
+#countryName{
+  margin-top: 50px;
+}
+.backBtn{
+  background-color: red;
+  color: white;
+  width: 100px;
+  border-radius: 10px;
+}
+.searchTerm{
+  width: 250px;
+  padding: 10px;
+  height: 35px;
+  border-radius: 15px;
+}
+#card1-text{
+  font-weight: bold;
+  color:black;
+}
+#card2-text{
+  font-weight: bold;
+  color:black;
+}
+#card3-text{
+  font-weight: bold;
+  color:black;
+  font-family: serif sans-serif ;
+}
+.col1:hover{
+  background-color: lightgreen ;
+  transition: 1s;
+}
+.col2:hover{
+  background-color: red;
+  transition: 1s;
+  color: white;
+}
+.col3:hover{
+  background-color: yellow;
+  transition: 1s;
+}
